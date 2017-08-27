@@ -5,11 +5,13 @@ Part 1: Prepare Your GitHub Account.
 
   - [ ]  Sign up for GitHub
   - [ ]  Email your GitHub username to james.wilson@rccd.edu
+  - [ ]  Create a repository for "CIS 7"
+  - [ ]  Create a file for exercise answers called "Assignment 1"
 
-Part 2: Reading
+Part 2: Reading & Exercises
 
   - [ ] Read Chapter 1.1: Statements, Symbolic Representation, and Tautologies
-  - [ ] Do Review Questions:
+  - [ ] Do Review Questions (in file "Assignment 1" created above):
     - [ ] #35
     - [ ] #37 - 38
     - [ ] #61 - 64

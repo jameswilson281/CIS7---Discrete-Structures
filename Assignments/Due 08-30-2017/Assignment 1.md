@@ -1,4 +1,4 @@
-# Introduction to CIS 7 - Discrete Structures
+# CIS 7 - Discrete Structures - Assignment 1
 Due 8/30/2017
 
 Part 1: Prepare Your GitHub Account.

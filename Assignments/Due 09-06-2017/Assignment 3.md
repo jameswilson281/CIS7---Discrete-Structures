@@ -16,6 +16,6 @@ Part 2: Reading & Exercises
 
 Part 3: Upload your assignment to GitHub
 
-  - [ ] git commit -am "assignment 1"
+  - [ ] git commit -am "assignment 3"
   - [ ] git push
   - [ ] Email james.wilson@rccd.edu to indicate that the assignment is complete

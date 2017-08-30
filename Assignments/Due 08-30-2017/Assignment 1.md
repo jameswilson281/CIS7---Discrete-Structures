@@ -10,6 +10,6 @@ Part 1: Prepare Your GitHub Account.
   
 Part 2: Upload your (empty file) assignment to GitHub
 
-  - [ ] git commit -am "assignment 3"
+  - [ ] git commit -am "assignment 1"
   - [ ] git push
   - [ ] Email james.wilson@rccd.edu to indicate that the assignment is complete

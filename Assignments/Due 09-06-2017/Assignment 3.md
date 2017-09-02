@@ -1,10 +1,10 @@
-# CIS 7 - Discrete Structures - Assignment 2
-Due 9/04/2017
+# CIS 7 - Discrete Structures - Assignment 3
+Due 9/06/2017
 
 Part 1: Prepare Your GitHub Account.
 
   - [ ]  Sign in to GitHub    
-  - [ ]  Create a file for exercise answers called "Assignment 1"
+  - [ ]  Create a file for exercise answers called "Assignment 3"
 
 Part 2: Reading & Exercises
 

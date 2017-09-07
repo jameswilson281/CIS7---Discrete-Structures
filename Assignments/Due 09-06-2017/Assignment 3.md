@@ -9,7 +9,7 @@ Part 1: Prepare Your GitHub Account.
 Part 2: Reading & Exercises
 
   - [X] Read Chapter 1.1: Statements, Symbolic Representation, and Tautologies
-  - [X] Do Review Questions (in file "Assignment 1" created above):
+  - [ ] Do Review Questions (in file "Assignment 1" created above):
     - [X] #35
     - [ ] #37 - 38
     - [ ] #61 - 64

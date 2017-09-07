@@ -15,5 +15,7 @@ These are the answers for this assignment
 The input values for x are 1.0, 5.1, 2.4, 7.2, and 5.3. What are the output values?
 
 First Option: X = 1.0
+
 if T ∧ T ∧ F
+
 Returns 1.0

@@ -19,3 +19,27 @@ First Option: X = 1.0
 if T ∧ T ∧ F
 
 Returns 1.0
+
+x = 5.1
+
+if F ∧ T ∧ F
+
+Won't Print
+
+x = 2.4
+
+if T ∧ T ∧ F
+
+Returns 2.4
+
+x = 7.2
+
+if F ∧ F ∧ T
+ 
+Returns 7.2
+
+x = 5.3
+
+if F ∧ T v T
+
+Returns 5.3

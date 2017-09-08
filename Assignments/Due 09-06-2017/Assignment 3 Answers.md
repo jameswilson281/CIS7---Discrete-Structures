@@ -83,7 +83,7 @@ B = odd(Number)
 | F | F | T | F |
 
 	if (A v B)'
-	or A' ^ B -->
+	or ((A)') ^ B) -->
 	statement1
 	else
 	statement2

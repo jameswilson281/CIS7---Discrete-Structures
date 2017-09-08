@@ -105,9 +105,9 @@ You want your program to execute statement 1 when A is false, B is false, and C 
 
 ## 61
 
-A = if Percival is a liar
+A = if Percival is a truth teller
 
-B = if Llewellyn is a liar
+B = if Llewellyn is a truth teller
 
 | A | B | A v B |  
 | - |:-:| -:|

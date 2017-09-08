@@ -106,10 +106,11 @@ You want your program to execute statement 1 when A is false, B is false, and C 
 ## 61
 
 A = if Percival is a liar
+
 B = if Llewellyn is a liar
 
 | A | B | A v B |  
-| - |:-:| -----:|
+| - |:-:| -:|
 | T | T | T |
 | T | F | T |
 | F | T | T |

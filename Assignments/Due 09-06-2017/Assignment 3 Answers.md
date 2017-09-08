@@ -82,10 +82,18 @@ B = odd(Number)
 | F | T | F	| T |
 | F | F | T | F |
 
+	if (A v B)'
+	or (A' ^ B) -->
+	statement1
+	else
+	statement2
+	end if
+
+and then
+
 	if Q
 	or P -->
 	statement1
 	else
 	statement2
 	end if
-

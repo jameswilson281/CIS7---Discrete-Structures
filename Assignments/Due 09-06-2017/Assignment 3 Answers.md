@@ -109,7 +109,7 @@ A = if Percival is a liar
 B = if Llewellyn is a liar
 
 | A | B | A v B |  
-| - |:-:| -----:| ---:|
+| - |:-:| -----:|
 | T | T | T |
 | T | F | T |
 | F | T | T |

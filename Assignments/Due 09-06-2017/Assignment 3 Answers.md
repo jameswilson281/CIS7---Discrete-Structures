@@ -97,3 +97,31 @@ and then
 	else
 	statement2
 	end if
+
+## 38
+
+You want your program to execute statement 1 when A is false, B is false, and C is true, and to execute statement 2 otherwise. You wrote
+
+
+## 61
+
+A = if Percival is a liar
+B = if Llewellyn is a liar
+
+| A | B | A v B |  
+| - |:-:| -----:| ---:|
+| T | T | T |
+| T | F | T |
+| F | T | T |
+| F | F | F |
+
+
+## 62
+
+
+## 63
+
+
+## 64
+
+

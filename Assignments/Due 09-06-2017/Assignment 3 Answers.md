@@ -66,8 +66,10 @@ else
 statement2
 end if
 
-| Tables        | Are           | Cool  |
+| A        | B           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| T      | T | $1600 |
+| T      | F      |   $12 |
+| F | T      |    $1 |
+| F | F      |    $1 |
+

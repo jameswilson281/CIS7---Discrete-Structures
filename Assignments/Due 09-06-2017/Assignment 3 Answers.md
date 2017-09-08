@@ -109,12 +109,12 @@ A = if Percival is a truth teller
 
 B = if Llewellyn is a truth teller
 
-| A | B | A v B |  
+| A | B | A' v B' |  
 | - |:-:| -:|
-| T | T | T |
+| T | T | F |
 | T | F | T |
 | F | T | T |
-| F | F | F |
+| F | F | T |
 
 
 ## 62

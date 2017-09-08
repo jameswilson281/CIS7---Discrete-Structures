@@ -77,8 +77,8 @@ B = odd(Number)
 
 | A | B| P | Q | 
 | - |:-:| -----:| ---:|
-| T | T | F | T|
-| T | F | 	|  |
-| F | T | 	|  |
-| F | F |   |  |
+| T | T | F | F |
+| T | F | F	| F |
+| F | T | F	| T |
+| F | F | T | F |
 

@@ -66,6 +66,10 @@ else
 statement2
 end if
 
+A = Value < Value 2
+
+B = odd(Number)
+
 | A        | B           | Cool  |
 | ------------- |:-------------:| -----:|
 | T      | T | $1600 |

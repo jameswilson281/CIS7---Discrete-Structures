@@ -59,12 +59,12 @@ Returns 5.3
 
 Rewrite the following statement form with a simplified conditional expression, where the function odd(n) returns true if n is odd.
 
-if not((Value1 < Value2) or odd(Number))
-or (not(Value1 < Value2) and odd(Number)) then
-statement1
-else
-statement2
-end if
+	if not((Value1 < Value2) or odd(Number))
+	or (not(Value1 < Value2) and odd(Number)) then
+	statement1
+	else
+	statement2
+	end if
 
 A = Value < Value 2
 
@@ -81,4 +81,11 @@ B = odd(Number)
 | T | F | F	| F |
 | F | T | F	| T |
 | F | F | T | F |
+
+	if (A v B)'
+	or A' ^ B -->
+	statement1
+	else
+	statement2
+	end if
 

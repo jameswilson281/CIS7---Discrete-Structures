@@ -66,11 +66,11 @@ else
 statement2
 end if
 
-A = Value < Value 2
+P = Value < Value 2
 
-B = odd(Number)
+Q = odd(Number)
 
-| A | B | (A)' v B  | (A)' ∧ B | 
+| P | Q | (P v Q)'  | (P)' ∧ Q | 
 | - |:-:| -----:| ---:|
 | T | T | T | T|
 | T | F |	|  |

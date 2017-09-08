@@ -54,3 +54,20 @@ x = 5.3
 if F ∧ T v T
 
 Returns 5.3
+
+## 37
+
+Rewrite the following statement form with a simplified conditional expression, where the function odd(n) returns true if n is odd.
+
+if not((Value1 < Value2) or odd(Number))
+or (not(Value1 < Value2) and odd(Number)) then
+statement1
+else
+statement2
+end if
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |

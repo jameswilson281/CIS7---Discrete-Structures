@@ -70,10 +70,10 @@ P = Value < Value 2
 
 Q = odd(Number)
 
-| P | Q | (P v Q)'  | (P)' ∧ Q | 
+| P | Q | (P)' v Q  | (P)' ∧ Q | 
 | - |:-:| -----:| ---:|
-| T | T | T | T|
-| T | F |	|  |
+| T | T | F | T|
+| T | F | 	|  |
 | F | T | 	|  |
 | F | F |   |  |
 

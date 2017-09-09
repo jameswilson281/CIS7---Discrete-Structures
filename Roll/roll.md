@@ -24,15 +24,15 @@
 | Arevalo, Andres           |      |      |   x  |      |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
 | Covell, David A.          |      |      |      |      |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
 | West, Benjamin J.         |      |      |   x  |      |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
-Brian Lim
-Andrew So
-Adam Heller
-Ryan McDonald
-Julio Jimenez
-Joel Bateman
-Jesus Ayala,
-Oscar Gil
-Alfredo Llamas
+| Brian Lim					|      |      |   x  |      |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
+| Andrew So					|      |      |   x  |      |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
+| Adam Heller				|      |      |   x  |      |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
+| Ryan McDonald				|      |      |   x  |      |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
+| Julio Jimenez				|      |      |   x  |      |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
+| Joel Bateman				|      |      |   x  |      |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
+| Jesus Ayala 				|      |      |   x  |      |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |	
+| Oscar Gil					|      |      |   x  |      |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
+| Alfredo Llamas            |      |      |   x  |      |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
 
 
 # Note: It is campus safety policy that I do not have more students in the classroom than there are seats.

@@ -102,6 +102,17 @@ and then
 
 You want your program to execute statement 1 when A is false, B is false, and C is true, and to execute statement 2 otherwise. You wrote
 
+	if not(A and B) and C then
+	statement 1
+	else
+	statement 2
+	end if
+
+Does this do what you want?
+
+((F ^ F)' and T) == T
+
+Will run properly
 
 ## 61
 
@@ -120,10 +131,65 @@ Percival is not a liar.
 
 ## 62
 
+	Traveling on, you meet Merlin and Meredith. Merlin says, “If I am a truth teller, then Meredith is a truth teller.” Is Merlin a liar or a truth teller? What about Meredith? Explain your answer.
+
+A = Merlin is a truth teller
+
+B = Meredith is a truth teller
+
+P = A -> B [if I'm a truth teller, Meredith is too.]
+
+Q = P < - > A [because logic]
+
+| A | B | P | Q |  
+| - |:-:|:-:| :-| 
+| T | T | F | T | 
+| T | F | T | F | 
+| F | T | T | F | 
+| F | F | T | F | 
+
+	Merlin and Meredith are truth tellers
 
 ## 63
 
+	Next, you meet Rothwold and Grymlin. Rothwold says, “Either I am a liar or Grymlin is a truth teller.” Is Rothwold a liar or a truth teller? What about Grymlin? Explain your answer
+
+A = Rothwold is a truth teller
+
+B = Grymlin is a truth teller
+
+P = A' v B [I am a liar or Grymlin is a truth teller]
+
+Q = P <-> A [logic]
+	
+| A | B | P | Q |  
+| - |:-:|:-:| :-| 
+| T | T | T | T | 
+| T | F | F | F | 
+| F | T | T | F | 
+| F | F | T | F | 
+
+	Same as 62, both are truth tellers.   
 
 ## 64
 
+	Finally, you meet Gwendolyn and Merrilaine. Gwendolin says, “I am a liar but Merrilaine is not.” Is Gwendolyn a liar or a truth teller? What about Merrilaine?
 
+A = Gwendolyn is a truth teller
+
+B = Merrilaine is a truth-teller
+
+P = A' ^ B [I am a liar but Merrilaine is a truth teller]
+
+Q = P <-> A [more logic]
+
+| A | B | P | Q |  
+| - |:-:|:-:| :-| 
+| T | T | F | F | 
+| T | F | F | F | 
+| F | T | T | F | 
+| F | F | F | T | 
+
+![relevant](https://media.giphy.com/media/GFZn0SpfS5Nrq/giphy.gif)
+
+	They're both liars, thus the gif.

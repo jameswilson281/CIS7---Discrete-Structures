@@ -172,4 +172,4 @@ Q = P <-> A [more logic]
 
 ![relevant](https://media.giphy.com/media/GFZn0SpfS5Nrq/giphy.gif)
 
-	They're both liars, thus the gif.
+	They're both liars, thus the gif. 

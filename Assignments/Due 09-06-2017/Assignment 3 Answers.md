@@ -116,6 +116,7 @@ B = if Llewellyn is a truth teller
 | F | T | T |
 | F | F | T |
 
+Percival is not a liar. 
 
 ## 62
 

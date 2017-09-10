@@ -20,7 +20,6 @@ The input values for x are 1.0, 5.1, 2.4, 7.2, and 5.3. What are the output valu
 	if T ∧ T ∧ F
 	Returns 1.0
 
-
 	x = 5.1
 	if F ∧ T ∧ F
 	Won't Print

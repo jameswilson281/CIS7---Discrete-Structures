@@ -11,11 +11,11 @@ Part 2: Reading & Exercises
   - [X] Read Chapter 1.1: Statements, Symbolic Representation, and Tautologies
   - [ ] Do Review Questions (in file "Assignment 1" created above):
     - [X] #35
-    - [ ] #37 - 38
-    - [ ] #61 - 64
+    - [X] #37 - 38
+    - [X] #61 - 64
 
 Part 3: Upload your assignment to GitHub
 
-  - [ ] git commit -am "assignment 3"
-  - [ ] git push
-  - [ ] Email james.wilson@rccd.edu to indicate that the assignment is complete
+  - [X] git commit -am "assignment 3"
+  - [X] git push
+  - [X] Email james.wilson@rccd.edu to indicate that the assignment is complete

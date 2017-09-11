@@ -20,8 +20,8 @@
 | Spengler, Eric A.         |      |      |      |  x   |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
 | Teng, Alvin J.            |      |      |   x  |  x   |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
 | Trejo, Vincent A. DROPPED |      |      |   x  |      |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
-| Vig, Mrinal K.            |      |      |   x  |      |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
-| Arevalo, Andres           |      |      |   x  |  x   |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
+| Vig, Mrinal K.            |      |      |   x  |  x   |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
+| Arevalo, Andres           |      |  x   |   x  |  x   |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
 | Covell, David A.          |      |      |      |      |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
 | West, Benjamin J.         |      |      |   x  |  x   |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
 | Brian Lim					|      |      |   x  |      |   x  |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
@@ -33,6 +33,5 @@
 | Jesus Ayala 				|      |      |   x  |      |  x   |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |	
 | Oscar Gil					|      |      |   x  |      |   x  |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
 | Alfredo Llamas            |      |      |   x  |  x   |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
-| Arevalo, Andres            |  x   |  x   |   x  |  x   |      |      |      |      |      |      |      |      |       |       |       |       |       |       |      |      |      |       |       |       |       |       |       |
 
 # Note: It is campus safety policy that I do not have more students in the classroom than there are seats.

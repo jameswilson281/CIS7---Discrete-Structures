@@ -1,5 +1,11 @@
 # Assignment 4 Answers
 
+## Explanation
+
+Unfortunately my planner (iStudiez Pro) told me the assignment was due 9/12 but that wasn't proper.  Well anyways.
+
+![](https://media.tenor.com/images/d21fb679d6ef61c6aa9576f899579311/tenor.gif)
+
 	Show that p -> q and q' -> p' are logically equivalent without using truth tables or a "contrapositive" law (don't assume they are true).
 
 Answer
@@ -65,4 +71,9 @@ Answer 2
 						  		 <=> q
 
 
+## Apologies
+
+Sorry for how late this is.
+
+![](http://gifimage.net/wp-content/uploads/2017/08/im-sorry-gif-14.gif)
 

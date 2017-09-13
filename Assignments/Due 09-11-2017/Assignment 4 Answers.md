@@ -34,6 +34,35 @@ Answer
 
 	Come up with 2 more questions like the ones above. Incorporate the logic laws we discussed in class.
 
+Answer
+
+	(q’ -> (p’)’) ^ q’ <=> (q’ -> (p’)’) ^ q’
+	
+					   <=> (q’ -> p) ^ q'
+
+					   <=> (q v p) ^ q'
+
+					   <=> (q -> p) ^ q’
+
+					   <=> (q’ ^ q) v (‘q ^ p)
+
+					   <=> F v (‘q ^ p)
+
+					   <=> ‘q ^ p
+
+Answer 2
+	
+	(((q')' ^ q) v (q' v q) ^ q) <=> (((q')' ^ q) v (q' v q) ^ q)
+
+						  		 <=> ((q ^ q) v (q' v q) ^ q)
+
+						  		 <=> (F v T) ^ q)
+
+						  		 <=> ((F ^ q) v (T ^ q))
+
+						  		 <=> (T ^ q)
+
+						  		 <=> q
 
 
 

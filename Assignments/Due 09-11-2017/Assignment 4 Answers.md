@@ -6,11 +6,11 @@ Unfortunately my planner (iStudiez Pro) told me the assignment was due 9/12 but 
 
 ![](https://media.tenor.com/images/d21fb679d6ef61c6aa9576f899579311/tenor.gif)
 
+### 1.
+
 	Show that p -> q and q' -> p' are logically equivalent without using truth tables or a "contrapositive" law (don't assume they are true).
 
 Answer
-
-### 1.
 
 	q' -> p' <=> (q')' v p'  =  Implication
 

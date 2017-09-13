@@ -1,5 +1,6 @@
 def intCheck():
-	print("test")
+	raw_input("Enter an integer: ")
+	
 
 
 def main():

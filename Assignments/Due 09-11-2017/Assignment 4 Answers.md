@@ -12,13 +12,13 @@ Unfortunately my planner (iStudiez Pro) told me the assignment was due 9/12 but 
 
 Answer
 
-	q' -> p' <=> (q')' v p'  =  Implication
+	q' -> p' <=> (q')' v p'  	 =  Implication
 
-         <=> q v p'      	 =  Double Negation
+         	 <=> q v p'      	 =  Double Negation
 
-         <=> p' v q      	 =  Commutative
+        	 <=> p' v q      	 =  Commutative
 
-         <=> p -> q      	 =  Implication
+             <=> p -> q      	 =  Implication
 
 ### 2.
 
@@ -26,7 +26,7 @@ Answer
 
 Answer 
 
-	(p -> r) ^ (q -> r) <=> (p' v r) ^ (q' v r) = Implication
+(p -> r) ^ (q -> r) <=> (p' v r) ^ (q' v r)     = Implication
 
                     <=> (r v p') ^ (r v q')     = Commutative
 

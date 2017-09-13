@@ -1,4 +1,4 @@
-## Assignment 4 Answers
+# Assignment 4 Answers
 
 	Show that p -> q and q' -> p' are logically equivalent without using truth tables or a "contrapositive" law (don't assume they are true).
 
@@ -8,6 +8,7 @@ q' -> p' <=> (q')' v p'  =  Implication
          <=> q v p'      =  Double Negation
          <=> p' v q      =  Commutative
          <=> p -> q      =  Implication
+
 ### 2
 
 	Show that (p -> r) ^ (q -> r) <=> (p v q) -> r

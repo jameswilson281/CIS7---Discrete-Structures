@@ -26,17 +26,17 @@ Answer
 
 Answer 
 
-(p -> r) ^ (q -> r) <=> (p' v r) ^ (q' v r)     = Implication
+	(p -> r) ^ (q -> r) <=> (p' v r) ^ (q' v r)     = Implication
 
-                    <=> (r v p') ^ (r v q')     = Commutative
+                    	<=> (r v p') ^ (r v q')     = Commutative
 
-                    <=> r v (p' ^ q')           = Distributive
+                   	    <=> r v (p' ^ q')           = Distributive
 
-                    <=> (p' ^ q') v r           = Commutative
+                        <=> (p' ^ q') v r           = Commutative
 
-                    <=> (p v q)' v r            = DeMorgan
+                        <=> (p v q)' v r            = DeMorgan
 
-                    <=> (p v q) -> r            = Implication
+                        <=> (p v q) -> r            = Implication
 
 ### 3.
 

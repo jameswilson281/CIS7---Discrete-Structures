@@ -10,6 +10,8 @@ Unfortunately my planner (iStudiez Pro) told me the assignment was due 9/12 but 
 
 Answer
 
+### 1.
+
 	q' -> p' <=> (q')' v p'  =  Implication
 
          <=> q v p'      	 =  Double Negation

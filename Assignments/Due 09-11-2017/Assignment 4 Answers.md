@@ -4,7 +4,7 @@
 
 Answer
 
-q' -> p' <=> (q')' v p'  =  Implication
+	q' -> p' <=> (q')' v p'  =  Implication
 
          <=> q v p'      =  Double Negation
 
@@ -18,7 +18,7 @@ q' -> p' <=> (q')' v p'  =  Implication
 
 Answer 
 
-(p -> r) ^ (q -> r) <=> (p' v r) ^ (q' v r) = Implication
+	(p -> r) ^ (q -> r) <=> (p' v r) ^ (q' v r) = Implication
 
                     <=> (r v p') ^ (r v q') = Commutative
 

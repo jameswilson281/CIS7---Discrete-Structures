@@ -1,0 +1,11 @@
+D:\Work\Norco College\CIS 7 - Discrete Structures\online\CIS7---Discrete-Structures\Assignments\Due 09-18-2017\Sample\Sample\bin\Debug\netcoreapp2.0\Sample.deps.json
+D:\Work\Norco College\CIS 7 - Discrete Structures\online\CIS7---Discrete-Structures\Assignments\Due 09-18-2017\Sample\Sample\bin\Debug\netcoreapp2.0\Sample.runtimeconfig.json
+D:\Work\Norco College\CIS 7 - Discrete Structures\online\CIS7---Discrete-Structures\Assignments\Due 09-18-2017\Sample\Sample\bin\Debug\netcoreapp2.0\Sample.runtimeconfig.dev.json
+D:\Work\Norco College\CIS 7 - Discrete Structures\online\CIS7---Discrete-Structures\Assignments\Due 09-18-2017\Sample\Sample\bin\Debug\netcoreapp2.0\Sample.dll
+D:\Work\Norco College\CIS 7 - Discrete Structures\online\CIS7---Discrete-Structures\Assignments\Due 09-18-2017\Sample\Sample\bin\Debug\netcoreapp2.0\Sample.pdb
+D:\Work\Norco College\CIS 7 - Discrete Structures\online\CIS7---Discrete-Structures\Assignments\Due 09-18-2017\Sample\Sample\obj\Debug\netcoreapp2.0\Sample.csprojResolveAssemblyReference.cache
+D:\Work\Norco College\CIS 7 - Discrete Structures\online\CIS7---Discrete-Structures\Assignments\Due 09-18-2017\Sample\Sample\obj\Debug\netcoreapp2.0\Sample.csproj.CoreCompileInputs.cache
+D:\Work\Norco College\CIS 7 - Discrete Structures\online\CIS7---Discrete-Structures\Assignments\Due 09-18-2017\Sample\Sample\obj\Debug\netcoreapp2.0\Sample.AssemblyInfoInputs.cache
+D:\Work\Norco College\CIS 7 - Discrete Structures\online\CIS7---Discrete-Structures\Assignments\Due 09-18-2017\Sample\Sample\obj\Debug\netcoreapp2.0\Sample.AssemblyInfo.cs
+D:\Work\Norco College\CIS 7 - Discrete Structures\online\CIS7---Discrete-Structures\Assignments\Due 09-18-2017\Sample\Sample\obj\Debug\netcoreapp2.0\Sample.dll
+D:\Work\Norco College\CIS 7 - Discrete Structures\online\CIS7---Discrete-Structures\Assignments\Due 09-18-2017\Sample\Sample\obj\Debug\netcoreapp2.0\Sample.pdb

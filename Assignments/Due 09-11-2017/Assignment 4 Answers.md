@@ -6,11 +6,11 @@ Answer
 
 	q' -> p' <=> (q')' v p'  =  Implication
 
-         <=> q v p'      =  Double Negation
+         <=> q v p'      	 =  Double Negation
 
-         <=> p' v q      =  Commutative
+         <=> p' v q      	 =  Commutative
 
-         <=> p -> q      =  Implication
+         <=> p -> q      	 =  Implication
 
 ### 2.
 
@@ -20,15 +20,15 @@ Answer
 
 	(p -> r) ^ (q -> r) <=> (p' v r) ^ (q' v r) = Implication
 
-                    <=> (r v p') ^ (r v q') = Commutative
+                    <=> (r v p') ^ (r v q')     = Commutative
 
-                    <=> r v (p' ^ q')       = Distributive
+                    <=> r v (p' ^ q')           = Distributive
 
-                    <=> (p' ^ q') v r       = Commutative
+                    <=> (p' ^ q') v r           = Commutative
 
-                    <=> (p v q)' v r        = DeMorgan
+                    <=> (p v q)' v r            = DeMorgan
 
-                    <=> (p v q) -> r        = Implication
+                    <=> (p v q) -> r            = Implication
 
 ### 3.
 

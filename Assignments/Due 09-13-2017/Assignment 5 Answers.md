@@ -6,13 +6,13 @@
 
 Answers
 	
-	a. universal(X)[s(x) -> I(x)]
+	a. ∀(X)[s(x) -> I(x)]
 
-	b. existential(x)[(I(x) ^ s(x)) -> M(x)]
+	b. ∀(x)[(I(x) ^ s(x)) -> M(x)]
 
-	c. universal(x)[M(x) -> (I(x)' ^ S(x))]
+	c. ∀(x)[M(x) -> (I(x)' ^ S(x))]
 
-	d. universal(x)[(I(x) ^ S(x) -> M(x))]
+	d. ∀(x)[(I(x) ^ S(x) -> M(x))]
 
 ### Practice 18
 

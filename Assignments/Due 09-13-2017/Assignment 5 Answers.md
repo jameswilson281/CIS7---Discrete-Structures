@@ -41,7 +41,9 @@ Answers
 
 Answers
 
-	a. Domain = Animals
+a.
+
+	Domain = Animals
 
 	A(x) = x is a cat
 
@@ -49,6 +51,34 @@ Answers
 
 	Some animals are cats and some animals are dogs vs some animals are cats and dogs which is false.
 
+b.
 
+	Domain = People
+
+	P(x,y) = x love y
+
+	x = Men
+
+	y = Women
+
+	All men love some women vs some men love all women.
+
+c. 
+
+	Domain = Animals
+
+	P(x) = x is a panda
+
+	Q(x) = x is a quail
+
+	All pandas are quails vs some pandas are all quails.
+
+d. 
+
+	Domain = Animals
+
+	A(x) = x is an aligator
+
+	They are not aligators vs not they are not all aligators.
 
 

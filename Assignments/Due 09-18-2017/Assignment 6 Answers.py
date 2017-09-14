@@ -1,9 +1,7 @@
 def intCheck():
 	while True:
 		try:
-			buffer = input("Enter a number: ")
-			if (buffer.at(0) == 'q')
-			number = (int)buffer
+			number = int(input("Enter a number: "))
 			break
 		except:
 			print("That's not a valid option!")
@@ -14,7 +12,6 @@ def intCheck():
 
 
 def main():
-
 	intCheck()
 
 main()

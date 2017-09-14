@@ -8,7 +8,7 @@ Answers
 	
 	a. ∀(X)[s(x) -> I(x)]
 
-	b. ∀(x)[(I(x) ^ s(x)) -> M(x)]
+	b. ∃(x)[(I(x) ^ s(x)) -> M(x)]
 
 	c. ∀(x)[M(x) -> (I(x)' ^ S(x))]
 

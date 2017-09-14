@@ -3,12 +3,12 @@ Due 9/13/2017
 
 Part 1: Prepare Your GitHub Account.
 
-  - [ ]  Sign in to GitHub    
-  - [ ]  Create a file for exercise answers called "Assignment 5"
+  - [X]  Sign in to GitHub    
+  - [X]  Create a file for exercise answers called "Assignment 5"
 
 Part 2: Reading & Exercises
 
-  - [ ] If you haven't already, make sure to read 1.1 - 1.3  
+  - [X] If you haven't already, make sure to read 1.1 - 1.3  
   - [ ] Answer practice Question 18:  
   - [ ] 1.3 Review Question 25
   - [ ] 1.3 Review Question 34

@@ -9,7 +9,7 @@ Due 10/16/2017
 	Tower B: -,-,-
 	Tower C: -,-,1
 	Move disk 1 to Tower C
-	111
+	```
     - [ ] After each move, wait for user input and clear the screen
     - [ ] Upload your assignment to GitHub
     - [ ] Email james.wilson@rccd.edu with the url to the source code on GitHub	

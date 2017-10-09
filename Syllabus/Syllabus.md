@@ -118,7 +118,7 @@ If you are a victim of any violent, threatening, or harassing conduct, any witne
 | Week 6 | 10/2 | _Programming Exercises_ | Chapter 2 &quot;On the Computer&quot; |
 | Week 7 | 10/9 | Recursion &amp; Recurrence | 3.1 – 3.2 |
 | Week 8 | 10/16 | Analysis of Algorithms | 3.3 |
-|   | 10/23 | Holiday | No Classes |
+| Week 9 | 10/23 | _Programming Exercises_ | Review |
 | Week 10 | 10/30 | _Programming Exercises_ | Chapter 3 &quot;On the Computer&quot; |
 | Week 11 | 11/6 | Sets, Combinatorics &amp; Probability | Chapter 4 |
 | Week 12 | 11/13 | _Programming Exercises_ | Chapter 4 &quot;On the Computer&quot; |

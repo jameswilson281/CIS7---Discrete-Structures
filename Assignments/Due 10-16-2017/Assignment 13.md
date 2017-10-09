@@ -1,4 +1,4 @@
-﻿# CIS 7 - Discrete Structures - Assignment 12
+﻿# CIS 7 - Discrete Structures - Assignment 13
 Due 10/16/2017
 
     - [ ] Write a program that asks the user for 1 integer indicating the number of disks to use.  Then have the program solve the tower of hanoi problem recursively.

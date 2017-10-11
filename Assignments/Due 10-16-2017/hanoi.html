@@ -1,0 +1,62 @@
+<html>
+<body>
+<h4>Towers of Hanoi</h4>
+<div id="output"></div>
+</body>
+<script>
+class Tower {	
+    constructor(name,height, preload) {
+		this.disks = [];		
+        for (let i = height -1 ; i >= 0; i--) {
+    			!!preload ? this.disks.push(i) : this.disks.push("-");
+    	}		
+        this.name = name;
+    };
+
+    print() {
+    	  var output = this.name + ": ";
+		  for (let i = 0; i < this.disks.length; i++) {
+    			output += " " + this.disks[i];
+    	  }
+		  output = `<div>${output}</div>`;
+		  return output;
+    };
+	
+	push(number) {
+		var i = this.disks.length -1;		
+		while(this.disks[i] == '-' && i != -1) i--;
+		this.disks[i+1] = number;
+	};
+	pop() {
+		var i = this.disks.length -1;		
+		while(this.disks[i] == '-') i--;
+		var number = this.disks[i];
+        this.disks[i] = '-';
+	    return number;
+	};
+}
+function printTowersInOrder(tower1, tower2, tower3) {
+	var first = tower1.name === "A" ? tower1 : tower2.name === "A" ? tower2 : tower3;
+	var second = tower1.name === "B" ? tower1 : tower2.name === "B" ? tower2 : tower3;
+	var third = tower1.name === "C" ? tower1 : tower2.name === "C" ? tower2 : tower3;
+	return `${first.print()}<br/>${second.print()}<br/>${third.print()}` 
+}
+function hanoi(n, start, end, spare, outputdiv) {
+	if(n > 0) {
+		hanoi(n-1, start, spare, end,outputdiv);
+		var div = document.getElementById(outputdiv);
+		var disk = start.pop();
+		var output = "";
+		end.push(disk);				
+		div.innerHTML += `${printTowersInOrder(start,end,spare)}<br/>Move disk ${disk} from ${start.name} to ${end.name}<hr>`;
+		hanoi(n-1, spare, end, start,outputdiv);
+	}
+}
+
+var towera = new Tower("A", 3, true);
+var towerb = new Tower("B", 3);
+var towerc = new Tower("C", 3);
+document.getElementById('output').innerHTML = printTowersInOrder(towera,towerb,towerc) + "<hr>";
+hanoi(3,towera,towerb,towerc,'output');
+</script>
+</html>

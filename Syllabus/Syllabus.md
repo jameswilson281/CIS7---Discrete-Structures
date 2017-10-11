@@ -10,11 +10,11 @@ A college of the Riverside Community College District
 
 **Dates:**
 
-**Instructor:                 Email:**
+**Instructor: James Wilson         Email: james.wilson@rccd.edu
 
-**Office/Phone:                Office Hours:**
+**Office/Phone: N/A                Office Hours: N/A
 
-**Class Hours:                Class Location:**
+**Class Hours: M 2-3:25, W 2-4:35  Class Location: CACT 2
 
 **Section Code:               **
 

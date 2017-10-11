@@ -116,7 +116,7 @@ If you are a victim of any violent, threatening, or harassing conduct, any witne
 | Week 4 | 9/18 | Proofs, Induction | 2.1 – 2.2 |
 | Week 5 | 9/25 | Correctness, Number Theory | 2.3 – 2.4 |
 | Week 6 | 10/2 | _Programming Exercises_ | Chapter 2 &quot;On the Computer&quot; |
-| Week 7 | 10/9 | _Programming Exercises_ | Chapter 3 &quot;On the Computer&quot; |
+| Week 7 | 10/9 | _Programming Exercises_ | Towers of Hanoi Lab Project |
 | Week 8 | 10/16 | Recursion &amp; Recurrence | 3.1 – 3.2 |
 | Week 9 | 10/23 | Analysis of Algorithms | 3.3 |
 | Week 10 | 10/30 | _Programming Exercises_ | Review |

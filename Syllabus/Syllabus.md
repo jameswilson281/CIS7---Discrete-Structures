@@ -116,13 +116,13 @@ If you are a victim of any violent, threatening, or harassing conduct, any witne
 | Week 4 | 9/18 | Proofs, Induction | 2.1 – 2.2 |
 | Week 5 | 9/25 | Correctness, Number Theory | 2.3 – 2.4 |
 | Week 6 | 10/2 | _Programming Exercises_ | Chapter 2 &quot;On the Computer&quot; |
-| Week 7 | 10/9 | Recursion &amp; Recurrence | 3.1 – 3.2 |
-| Week 8 | 10/16 | Analysis of Algorithms | 3.3 |
-| Week 9 | 10/23 | _Programming Exercises_ | Review |
-| Week 10 | 10/30 | _Programming Exercises_ | Chapter 3 &quot;On the Computer&quot; |
-| Week 11 | 11/6 | Sets, Combinatorics &amp; Probability | Chapter 4 |
-| Week 12 | 11/13 | _Programming Exercises_ | Chapter 4 &quot;On the Computer&quot; |
-| Week 13 | 11/20 | Graphs &amp; Trees | 6.1 – 6.3 |
-| Week 14 | 11/27 | Graph Algorithms | Chapter 7 |
-| Week 15 | 12/4 | Graph Algorithms (cont&#39;d) | Chapter 7 |
+| Week 7 | 10/9 | _Programming Exercises_ | Chapter 3 &quot;On the Computer&quot; |
+| Week 8 | 10/16 | Recursion &amp; Recurrence | 3.1 – 3.2 |
+| Week 9 | 10/23 | Analysis of Algorithms | 3.3 |
+| Week 10 | 10/30 | _Programming Exercises_ | Review |
+| Week 12 | 11/6 | Sets, Combinatorics &amp; Probability | Chapter 4 |
+| Week 13 | 11/13 | _Programming Exercises_ | Chapter 4 &quot;On the Computer&quot; |
+| Week 14 | 11/20 | Graphs &amp; Trees | 6.1 – 6.3 |
+| Week 15 | 11/27 | Graph Algorithms | Chapter 7 |
+| Week 16 | 12/4 | Graph Algorithms (cont&#39;d) | Chapter 7 |
 | Final | 12/11 |   | Final Exam |

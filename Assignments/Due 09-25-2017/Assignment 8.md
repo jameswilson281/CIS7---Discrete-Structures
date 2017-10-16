@@ -1,4 +1,4 @@
-# CIS 7 - Discrete Structures - Assignment 7
+# CIS 7 - Discrete Structures - Assignment 8
 Due 9/25/2017
 
   - [ ] Write a program to allow a user to enter a number.  Then let the user guess the number of prime numbers between 0 and that number they entered.  Prove, by exhaustion, whether or not their guess was correct.

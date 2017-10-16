@@ -1,4 +1,4 @@
-# CIS 7 - Discrete Structures - Assignment 8
+# CIS 7 - Discrete Structures - Assignment 9
 Due 9/27/2017
 
     - [ ] 2.2 Exercise 3:  Prove by induction that 1 + 5 + 9 + ... + (4n-3) = n(2n-1)
